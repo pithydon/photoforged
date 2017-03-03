@@ -1,5 +1,9 @@
+farming:desert_sand_soil_wet sides default_desert_sand.png^farming_soil_wet_side.png
+farming:desert_sand_soil_wet bottom default_desert_sand.png^farming_soil_wet_side.png
 furniture:chair_wood sides furniture_chair_wood_side.png
 furniture:stool_wood sides furniture_chair_wood_side.png
+furniture:chair_junglewood sides furniture_chair_junglewood_side.png
+furniture:stool_junglewood sides furniture_chair_junglewood_side.png
 furniture:chair_acacia_wood top furniture_chair_acacia_wood_top.png
 furniture:chair_acacia_wood bottom furniture_chair_acacia_wood_top.png
 furniture:chair_acacia_wood sides furniture_chair_acacia_wood_side.png
@@ -24,6 +28,7 @@ furniture:stool_pine_wood bottom furniture_chair_pine_wood_top.png
 furniture:stool_pine_wood sides furniture_chair_pine_wood_side.png
 furniture:table_pine_wood top furniture_table_pine_wood_top.png
 furniture:table_pine_wood bottom furniture_table_pine_wood_top.png
+mcl_core:sandstone all default_sandstone.png
 moreblocks:clean_glass bottom blank.png
 moreblocks:clean_glass sides blank.png
 moreblocks:coal_glass bottom moreblocks_coal_glass_detail.png
@@ -43,6 +48,14 @@ moreblocks:trap_super_glow_glass bottom moreblocks_super_glow_glass_detail.png
 moreblocks:trap_super_glow_glass sides moreblocks_super_glow_glass_detail.png
 xdecor:chair all default_wood.png
 xdecor:moonbrick all moreblocks_grey_bricks.png
+xdecor:stone_rune all moreblocks_circle_stone_bricks.png
+xdecor:stone_tile all moreblocks_stone_tile.png
 xdecor:table all default_wood.png
 xdecor:woodframed_glass bottom default_glass_detail.png
 xdecor:woodframed_glass sides default_glass_detail.png
+xpanes:pane top xpanes_glass_edge.png
+xpanes:pane bottom xpanes_glass_edge.png
+xpanes:pane sides xpanes_glass_pane.png
+xpanes:pane_flat top xpanes_glass_edge.png
+xpanes:pane_flat bottom xpanes_glass_edge.png
+xpanes:pane_flat sides xpanes_glass_pane.png
