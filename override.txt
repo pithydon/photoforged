@@ -53,9 +53,5 @@ xdecor:stone_tile all moreblocks_stone_tile.png
 xdecor:table all default_wood.png
 xdecor:woodframed_glass bottom default_glass_detail.png
 xdecor:woodframed_glass sides default_glass_detail.png
-xpanes:pane top xpanes_glass_edge.png
-xpanes:pane bottom xpanes_glass_edge.png
 xpanes:pane sides xpanes_glass_pane.png
-xpanes:pane_flat top xpanes_glass_edge.png
-xpanes:pane_flat bottom xpanes_glass_edge.png
 xpanes:pane_flat sides xpanes_glass_pane.png
